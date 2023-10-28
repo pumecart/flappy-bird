@@ -6,7 +6,7 @@ and freshen up on my logical skills.  This project allowed me the opportunity to
 
 Here is a link to my Youtube demo of the game being played and a walkthrough of the code:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gZiUmDNhYcA)
 
 # Development Environment
 
