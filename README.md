@@ -24,9 +24,8 @@ Pygame and Random imports used in this project
 * [PART 5](https://www.youtube.com/watch?v=-BIM0Uq8cj8)
 * [PART 6](https://www.youtube.com/watch?v=aQJCLfEmSs4&t=22s)
 * [Pygame Tutorial - Part 16 - Adding Music and Sound Effects!](https://www.youtube.com/watch?v=iIb_xOs2a_E)
-* [AdhesiveWombat - Night Shade NO COPYRIGHT](* [Web Site Name](https://www.youtube.com/watch?v=mRN_T6JkH-c&list=PLwJjxqYuirCLkq42mGw4XKGQlpZSfxsYd))
+* [AdhesiveWombat - Night Shade NO COPYRIGHT](https://www.youtube.com/watch?v=mRN_T6JkH-c&list=PLwJjxqYuirCLkq42mGw4XKGQlpZSfxsYd)
 * [Arcade retro game over sound effect (FREE)](https://www.youtube.com/watch?v=gdrQrCOSFfI)
-* [Web Site Name](http://url.link.goes.here)
 
 
 # Future Work
